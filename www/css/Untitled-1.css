@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+.container{
+	padding-top: 30px;
+}
+	
+	
+.container-fluid{
+	padding-top: 30px;
+}
+	
+	
+
+
+body{
+	background-image: url("../img/yellow-white-and-gray-background-2340254.jpg");
+	background-size: cover;
+
+
+}
+
+
+.textblok{
+	background-color: rgba(255,255,255,.7);
+	text-align: center;
+	padding: 10px;
+	font-family: "arial";
+	border-radius: 25px;
+}
+ 
+
+
+.jumbotron{
+	background-image: url("../img/two-people-on-mountain-cliff-1647962.jpg");
+	background-size: cover;
+	
+	
+}
+
+.jumbo{
+	color: white;
+}
+
+
+
+.toptext{
+	background-color: rgba(255,255,255,.7);
+	padding:15px;
+	border-radius: 25px;
+	text-align: center;
+	margin-top: 30px;
+}
+.p1{
+	background-color: rgba(255,255,255,.7);
+	padding:15px;
+	border-radius: 25px;
+	text-align: center;
+}
+
+.p2{
+	background-color: rgba(255,255,255,.7);
+	padding:15px;
+	border-radius: 25px;
+	text-align: center;
+}
+
+.p3{background-color: rgba(255,255,255,.7);
+	padding:15px;
+	border-radius: 25px;
+	text-align: center;}
+
+.kaart1{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.kaart2{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bigcard{
+	margin-left: auto;
+	margin-right: auto;
+	
+}
