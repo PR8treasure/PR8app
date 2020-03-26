@@ -1,0 +1,183 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.jumbo{
+	padding-top: 20px;
+}
+
+.menu{
+	padding-bottom: 50px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+
+.bottomnav{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+	
+	
+}
+
+
+.rightbutton{
+	padding-bottom: 20px;
+	position: relative;
+	bottom: 15px;
+}
+
+.leftbutton{
+	position: relative;
+	bottom: 15px;
+}
+
+body{
+	background-image:url("../img/background.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.jumbotron{
+	background-image: url("../img/orange-vehicle-on-brown-sand-1553962.jpg");
+	background-size: cover;
+}
+
+.p1{
+	color: white;
+}
+
+
+
+
+.first { 
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 20px;
+	padding-top: 20px;
+
+	
+	
+
+}
+
+
+.second{
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 20px;
+	
+}
+
+
+.third{
+
+	padding-bottom: 100px;
+	
+	
+}
+
+.score{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+	
+
+.next{
+	
+position: relative;
+	left:15%;
+}
+
+
+.title{
+	text-align: center;
+	padding-top: 40px;
+}
+
+
+header{
+	padding-top: 10px;
+}
+
+
+
+
+.card1{
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 70px;
+	
+}
+
+.teamcards{
+	padding-top: 30px; 
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
+.teamcard1{
+	padding-bottom: 15px;
+}
+
+.teamcard2{
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+.teamcard3{
+	
+	padding-bottom: 30px;
+}
+
+.joinbutton{
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.joinbutton2{
+	text-align: center;
+	padding-bottom: 100px;
+}
+
+.teambutton{
+	text-align: center;
+}
+
+.backhome{
+	text-align: center;
+	padding-bottom: 10px;
+	
+ 
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-radius: 25PX;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+   }
+
+.carouselbox{
+	padding-top: 80px;
+}
+
+.topbar{
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+
+.form-control {
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
